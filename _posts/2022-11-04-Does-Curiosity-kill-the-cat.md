@@ -1,15 +1,22 @@
 ---
-title: "Post: Standard"
+title: "Does curiosity kill the cat?"
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - post
+  - economic conditions
+  - business leadership
+  - innovation
+  - diversity and inclusion
+  - curiosity
+  - creative problem solving
+  - leadership development
+  - teamwork
+  - business strategy
+  - CPS Model  
 ---
-
-# Does Curiosity kill the cat?
 
 Many companies are facing severe economy headwinds given the macro economic conditions. Companies strive for better results and better execution, no matter the economic conditions. But how do we get there? Business leaders across the country were asked the various factors which lead to better results and outcomes. While "innovation" was the clear winner, "inclusion" came second and "building a culture that values diversity" and "business results" tied for third. [^1] But for leaders who value all the above factors, "curiosity" might be the key that unlocks all those factors after all.
 
@@ -31,8 +38,7 @@ So when we as leaders and team players want to promote curiosity, we need to inh
 
     "..it is one thing to be curious, but another to be able to suspend your own beliefs. ...temporarily suspending your beliefs enables you to learn more and to engage, and often that is the key to overcoming barriers" - Hayden Majajas, diversity and inclusion director, Asia-Pacific BP
 
-
-![](../assets/CSP_Process_Model.png)
+![](/assets/images/CSP_Process_Model.png){:.centered}
 
 Creative Problem Solving Model [^2]
 
