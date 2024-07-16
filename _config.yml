@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Nikhil Potade"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Engineer | Embedded Systems expert | AI/ML Enthusiast"
+  location: Portland, OR
+  bio    : "engineer, mentor, embedded systems expert, AI/ML enthusiast, and ofcourse soccer rules !"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,6 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nptd"
+    - label: "Work GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nipot"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/nikhilpotade"
