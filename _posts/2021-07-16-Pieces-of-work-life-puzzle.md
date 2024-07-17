@@ -17,8 +17,10 @@ tags:
   - personal growth
   - career journey  
 ---
+{:justifytext: .text-justify}
 
 It has been about a month since I completed my 10 years at Intel. To be very honest, I had never thought I would spend that much amount of time working for a single employer! That being said, it was a great moment to reflect back on my journey at Intel over the past decade. It lead to a bigger question on why is one happy at a workplace, what are the different components which leads to people feeling cherished and productive, how can leaders and individuals create spaces which help rub the enthusiasm and goodwill on colleagues? For every employee the experience of joy is different because it depends on individual wants and needs! [^1] As an engineer at heart, I felt the need to dissect more into this. So here are my views on it. 
+{:justifytext}
 
 These are some of the vectors which make people happy at workplace. These are in no order of importance. I would like to share my experiences and views attached toeach of them.  
 
@@ -37,7 +39,9 @@ These are some of the vectors which make people happy at workplace. These are in
 4. Team   
     
     In my opinion, Team in fact trumps Money on why people are happy at workplace. You spend at least - 8 hours/day, 40hours/week, 2080 hours/year - interacting with people in your team. While you gravitate naturally to a set of people who you think you gel with, it is important to understand that the same collective set of people in that team did not exist in the first place. They were hired for a job, but their lives are also intertwined. It is so important to hand pick the hires and have a cultural fit (beside the technical fit obviously) for a role! From my personal experience, I can vouch how demotivating it could be to be in a team where you are the odd fitting piece of that puzzle. I personally, while interviewing take special interest in viewing if a person not only is a technical fit for the role, but also a cultural fit for the team.  
+{:justifytext}
 
 Looking back and trying to recollect all the leadership talks - they talk about building great teams. Great teams and joyful, happy workplaces go hand in hand. At times, I do feel lost and having that network of safe space to talk with peers and mentors puts things to perspective. After all, I work at this unique company in the world where we push physics to the edge, developproducts to solve difficult problems, touch people's life every day and put asmile on their face. That makes me happy, what about you?  
+{:justifytext}
 
 [^1]:  https://www.thebalancecareers.com/what-brings-you-joy-in-your-workplace-1916856

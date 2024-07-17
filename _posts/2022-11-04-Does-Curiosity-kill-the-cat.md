@@ -17,12 +17,17 @@ tags:
   - business strategy
   - CPS Model  
 ---
+{:justifytext: .text-justify}
 
 Many companies are facing severe economy headwinds given the macro economic conditions. Companies strive for better results and better execution, no matter the economic conditions. But how do we get there? Business leaders across the country were asked the various factors which lead to better results and outcomes. While "innovation" was the clear winner, "inclusion" came second and "building a culture that values diversity" and "business results" tied for third. [^1] But for leaders who value all the above factors, "curiosity" might be the key that unlocks all those factors after all.
+{:justifytext}
 
 It is easy to say that one needs to be curious and highlight all the benefits. It is difficult to practice it. So I decided to research a little bit on how to enhance curiosity. I wanted to break it down into a process that could be ingrained in our busy schedule. I came across a model called "Creative Problem Solving" model or CPS. This model inherently makes 2 basic assumptions
+{:justifytext}
+
 1. *Everyone* is creative in one way or the other
 2. Creativity is a skill that *needs to be learnt and crafted.*
+{:justifytext}
 
 Basically there are 2 main kinds of thinking that are needed to be creative
 1. Divergent thinking
@@ -32,11 +37,15 @@ Basically there are 2 main kinds of thinking that are needed to be creative
 2. Convergent thinking
 
    Convergent thinking on the other hand helps the leaders to reign in the curious mind. It helps to harvest those breakthrough ideas into actionable items.
+{:justifytext}
 
 
 So when we as leaders and team players want to promote curiosity, we need to inherently promote *both* these thinking process. Creating safe space for divergent thinkers and marrying them with convergent thinkers lead to breakthrough innovations. These are only possible when we open our minds to the notion that "diversity and inclusion" promotes this.
+{:justifytext}
 
-    "..it is one thing to be curious, but another to be able to suspend your own beliefs. ...temporarily suspending your beliefs enables you to learn more and to engage, and often that is the key to overcoming barriers" - Hayden Majajas, diversity and inclusion director, Asia-Pacific BP
+    "..it is one thing to be curious, but another to be able to suspend your own beliefs. ...temporarily suspending your beliefs enables you to learn more and to engage, and often that is the key to overcoming barriers"
+        - Hayden Majajas, diversity and inclusion director, Asia-Pacific BP
+{:justifytext}
 
 ![](/assets/images/CSP_Process_Model.png){:.centered}
 
@@ -69,12 +78,16 @@ Without going into too much detail I am providing a framework which can be put t
 - Implement
   - Formulate a plan
     Convert the solutions into actionable items. Identify the necessary resources that will support the implementation of those wild ideas.
+{:justifytext}
 
 CPS provides a good framework but it is the curious mind which needs to run wild to not only formulate the ideas but reining in the ideas to lead them to actionable conclusion.
+{:justifytext}
 
 Being inclusive and promoting curiosity is a process. It is a team sport. One is not possible without the other. Curiosity enriches individuals, it builds on diversity. Curiosity is a cornerstone of inclusion which often gets overlooked.
+{:justifytext}
 
-    "If you are not curious, you're not learning"  - Michael Dell
+    "If you are not curious, you're not learning"
+        - Michael Dell
 
 [^1]: The inclusion-curiosity connection by Julie Winkle Giulioni & Beverly Kaye
 
